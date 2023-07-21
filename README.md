@@ -97,9 +97,13 @@ Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan, Edward Yang, Zachary D
 ## Please cite the following paper when using our method
 ```latex
 @article{kurucu2023,
- title = {Graph Neural Network based Unsupervised Influential Sample Selection for Brain Multigraph Population Fusion},
+ title = {Graph neural network based unsupervised influential sample selection for brain multigraph population fusion},
  journal = {Computerized Medical Imaging and Graphics},
+ pages = {102274},
  year = {2023},
- author = {Kurucu, Mert Can and Rekik, Islem},
+ issn = {0895-6111},
+ doi = {https://doi.org/10.1016/j.compmedimag.2023.102274},
+ url = {https://www.sciencedirect.com/science/article/pii/S0895611123000927},
+ author = {Mert Can Kurucu and Islem Rekik},
 }
 ```
